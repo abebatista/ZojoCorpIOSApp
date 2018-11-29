@@ -1,0 +1,16 @@
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.exe
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.pdb
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/optimized/icon_76_76.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/optimized/icon_120_120.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/optimized/icon_167_167.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/optimized/icon_152_152.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/optimized/iTunesArtwork@1x.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/optimized/
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/iConciergeHotels.csproj.CoreCompileInputs.cache
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/iConciergeHotels.exe
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/iConciergeHotels.pdb
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items

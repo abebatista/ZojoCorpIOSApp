@@ -1,0 +1,9 @@
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Debug/optimized/
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Debug/iConciergeHotels.exe.mdb
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Debug/iConciergeHotels.exe
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Debug/iConciergeHotels.exe
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Debug/iConciergeHotels.exe.mdb

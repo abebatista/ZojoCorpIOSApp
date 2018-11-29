@@ -1,0 +1,10 @@
+Function=xamarin_timezone_get_data
+	/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll

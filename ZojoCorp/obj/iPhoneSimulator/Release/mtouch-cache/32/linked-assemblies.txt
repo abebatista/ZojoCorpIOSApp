@@ -1,0 +1,9 @@
+RemoveDynamicRegistrar:false
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/mtouch-cache/32/Link/iConciergeHotels.exe
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/mtouch-cache/32/Link/mscorlib.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/mtouch-cache/32/Link/System.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/mtouch-cache/32/Link/Mono.Security.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/mtouch-cache/32/Link/System.Xml.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/mtouch-cache/32/Link/System.Core.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhoneSimulator/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhoneSimulator/Release/mtouch-cache/32/Link/System.Web.Services.dll
