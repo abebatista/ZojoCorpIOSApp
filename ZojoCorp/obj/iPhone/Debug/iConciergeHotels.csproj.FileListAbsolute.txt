@@ -1,0 +1,16 @@
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhone/Debug/iConciergeHotels.exe
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhone/Debug/iConciergeHotels.pdb
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/optimized/icon_76_76.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/optimized/icon_120_120.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/optimized/icon_167_167.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/optimized/icon_152_152.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/optimized/iTunesArtwork@1x.png
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/optimized/
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/iConciergeHotels.csproj.CoreCompileInputs.cache
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/iConciergeHotels.exe
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Debug/iConciergeHotels.pdb

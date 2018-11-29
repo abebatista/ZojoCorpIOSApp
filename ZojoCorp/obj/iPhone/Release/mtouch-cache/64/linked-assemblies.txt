@@ -1,0 +1,6 @@
+RemoveDynamicRegistrar:true
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhone/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/64/Link/iConciergeHotels.exe
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhone/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhone/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhone/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/billy/Projects/iConciergeHotels/iConciergeHotels/bin/iPhone/Release/iConciergeHotels.app:/Users/billy/Projects/iConciergeHotels/iConciergeHotels/obj/iPhone/Release/mtouch-cache/64/Link/System.Web.Services.dll
